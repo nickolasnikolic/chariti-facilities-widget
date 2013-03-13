@@ -1,0 +1,13 @@
+{
+	"id": "com.nickolasnikolic.facilities",
+	"name": "com.nickolasnikolic.facilities",
+	"description" : "Implementation of facilities maps.",
+	"author": "Nickolas Nikolic",
+	"version": "0.1",
+	"copyright":"Copyright (c) 2013",
+	"license":"Public Domain",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"2.1",
+	"tags":"map,view, api, rest",
+	"platforms":"ios"
+}
