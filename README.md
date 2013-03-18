@@ -15,7 +15,7 @@ The location parameter may be set to any compatible image file in the maps direc
 
 	<Alloy>
 	    <Window id="win">
-	        <Widget src="com.nickolasnikolic.facilities" location="imageNameFromWidgetMapDirectory" />
+	        <Widget src="com.nickolasnikolic.facilities" location="image-FileName-From-Widget-Map-Directory" />
 	    </Window>
 	</Alloy>
 

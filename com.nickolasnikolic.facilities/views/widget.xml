@@ -1,6 +1,6 @@
 <Alloy>
  	<View class="indoorMap" id="facilitiesGeneralView">
  		<label id="fullScreenLabel" >Test Map</label>
- 		<imageView id="myIndoorMapView"  location="map1"></imageView>
+ 		<imageView id="myIndoorMapView"  location="map1.jpg"></imageView>
 	</View>
 </Alloy>
