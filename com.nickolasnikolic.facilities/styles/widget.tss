@@ -1,8 +1,9 @@
 
 "#test": {
-    color:'#576c89',
+    color:'#fcc',
     font:{fontSize:13, fontWeight:'bold'},
     textAlign:'center',
-    left:55, bottom:30,
-    width:200
+    left:0, bottom:0,
+    width:200,
+    animating: true
 },

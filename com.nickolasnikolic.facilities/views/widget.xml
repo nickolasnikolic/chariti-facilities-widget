@@ -1,5 +1,6 @@
 <Alloy>
- 	<View id="facilitiesGeneralView">
-		<Label id="test">Test View</Label>
+ 	<View class="indoorMap" id="facilitiesGeneralView">
+ 		<label id="fullScreenLabel" >Test Map</label>
+ 		<imageView id="myIndoorMapView"  location="map1"></imageView>
 	</View>
 </Alloy>
