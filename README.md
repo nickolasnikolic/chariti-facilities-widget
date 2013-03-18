@@ -13,7 +13,7 @@ And include it where you wish for it appear, the location parameter may be set t
 
 	<Alloy>
 	    <Window id="win">
-	        *<Widget src="com.nickolasnikolic.facilities" location="map1" />*
+	        **<Widget src="com.nickolasnikolic.facilities" location="map1" />**
 	    </Window>
 	</Alloy>
 
