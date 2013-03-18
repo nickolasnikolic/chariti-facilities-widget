@@ -10,6 +10,10 @@ function myInit( args ){
 		}else{
 			Ti.App.fireEvent( 'indoorMap', false );
 		}
+	}else{
+		//@todo maybe go to a default map view?
+		Ti.App.fireEvent( 'indoorMap', false );
+		return false;
 	}
 }
 
@@ -18,7 +22,7 @@ function myIndoorMapsRoute( imageToDisplay ){
 		var path = '/maps/' + imageToDisplay + '.jpg';
 		$.image = WPATH( path );
 		return true;
-	}catch( e ){
+	}catch{
 		return false;
 	}
 }
