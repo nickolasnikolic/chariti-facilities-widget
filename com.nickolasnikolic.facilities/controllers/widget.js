@@ -19,7 +19,7 @@ function myInit( args ){
 
 function myIndoorMapsRoute( imageToDisplay ){
 	try{
-		var path = '/maps/' + imageToDisplay + '.jpg';
+		var path = '/maps/' + imageToDisplay;
 		$.image = WPATH( path );
 		return true;
 	}catch{
